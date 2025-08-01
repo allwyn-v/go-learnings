@@ -1,0 +1,14 @@
+# Go modules
+go.sum
+
+# Build output
+*.exe
+*.out
+
+# Go bin folder
+bin/
+
+# Editor garbage
+.vscode/
+*.swp
+.DS_Store
